@@ -8,7 +8,7 @@ submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
 number:
 date:
 consensus: true
-v: 3
+v: 0
 area: "Transport"
 workgroup: "IP Performance Measurement"
 keyword:
